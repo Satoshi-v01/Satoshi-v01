@@ -1,4 +1,4 @@
-# Hola, Satoshi aqui
+# Satoshi aqui
 
 Full-Stack Developer | React · Node.js · PostgreSQL
 
