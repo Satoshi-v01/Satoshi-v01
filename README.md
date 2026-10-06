@@ -33,20 +33,24 @@ Git · GitHub · Figma · Claude Code
 ERP a medida para un negocio de productos para mascotas: facturación,
 caja con lector de código de barras, inventario en tiempo real, compras,
 reportes de rentabilidad y permisos por rol.
-`React · Node.js · Express · PostgreSQL · Supabase`
+`React · Node.js · Express · PostgreSQL `
+[Repo](https://github.com/Satoshi-v01/Custom-ERP--Sosa-BULLS)
 
 ###  Chatbot de WhatsApp
 Bot conectado a la API de Meta que atiende pedidos de clientes de forma
 automática, integrado al sistema de gestión.
+[Repo (mismo que arriba)](https://github.com/Satoshi-v01/Custom-ERP--Sosa-BULLS)
 
 ### Sosa Bulls: Tienda Online
 E-commerce con catálogo y compra directa, conectado al mismo backend
 que el sistema de gestión. En etapa final de lanzamiento.
 `React · Vite · Figma`
+[Repo (guess what? mismo que arriba)](https://github.com/Satoshi-v01/Custom-ERP--Sosa-BULLS)
 
 ###  Landing page para consultora contable
 Diseño y desarrollo de una landing page para presentar servicios
 y facilitar el contacto de nuevos clientes.
+[Repo](https://github.com/Satoshi-v01/hl-consulting-landing)
 
 ###  Prácticas con Unity
 Scripts de cámara, coleccionables, animaciones y controladores en
