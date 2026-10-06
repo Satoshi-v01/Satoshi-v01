@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hola, Satoshi aqui
 
-<!--
-**Satoshi-v01/Satoshi-v01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | React · Node.js · PostgreSQL
+Interesado en Game Development e Ingeniería de Software
+Asunción, Paraguay
 
-Here are some ideas to get you started:
+##  Actualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Desarrollando sistemas de gestión y e-commerce a medida para negocios
+-  Integrando chatbots de WhatsApp con la API de Meta
+-  Trabajando con PostgreSQL, Supabase y APIs REST
+-  Desarrollo asistido por IA con Claude Code
+-  Aprendiendo Unity + C#
+-  Estudiando Ingeniería en Informática
+
+##  Tecnologías
+
+**Backend**
+Node.js · Express · Python
+
+**Base de datos**
+PostgreSQL · SQL 
+
+**Frontend**
+React · Vite · JavaScript · HTML · CSS
+
+**Herramientas**
+Git · GitHub · Figma · Claude Code
+
+##  Proyectos destacados
+
+###  Sosa Bulls: Sistema de Gestión
+ERP a medida para un negocio de productos para mascotas: facturación,
+caja con lector de código de barras, inventario en tiempo real, compras,
+reportes de rentabilidad y permisos por rol.
+`React · Node.js · Express · PostgreSQL · Supabase`
+
+###  Chatbot de WhatsApp
+Bot conectado a la API de Meta que atiende pedidos de clientes de forma
+automática, integrado al sistema de gestión.
+
+### Sosa Bulls: Tienda Online
+E-commerce con catálogo y compra directa, conectado al mismo backend
+que el sistema de gestión. En etapa final de lanzamiento.
+`React · Vite · Figma`
+
+###  Landing page para consultora contable
+Diseño y desarrollo de una landing page para presentar servicios
+y facilitar el contacto de nuevos clientes.
+
+###  Prácticas con Unity
+Scripts de cámara, coleccionables, animaciones y controladores en
+Unity + C#, como base para mi primer juego móvil.
+
+---
+
+ Paraguay · Abierto a puestos de tiempo completo, contratos y freelance
+ [LinkedIn](https://www.linkedin.com/in/lucas-sosa-633536183/)
